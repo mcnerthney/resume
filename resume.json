@@ -10,6 +10,7 @@
     "email": "dan@softllc.com",
     "location": {
       "city": "Hood River",
+          "state": "Oregon",
       "countryCode": "US"
     },
     
@@ -18,6 +19,11 @@
         "url": "https://github.com/mcnerthney",
         "username": "mcnerthney",
         "network": "github"
+      },
+     {
+        "url": "https://www.instagram.com/dmcnerthney",
+        "username": "dmcnerthney",
+        "network": "instagram"
       }
     ]
   },
