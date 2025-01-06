@@ -35,10 +35,8 @@
   "education": [{
     "institution": "Bates Technical College",
     "url": "https://www.batestech.edu/",
-    "area": "Software Development",
     "studyType": "Software Development",
-    "startDate": "1978-01-01",
-    "endDate": "1979-01-01" }],
+  ],
 
   "references": [
   ],
