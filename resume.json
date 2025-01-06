@@ -35,7 +35,8 @@
   "education": [{
     "institution": "Bates Technical College",
     "url": "https://www.batestech.edu/",
-    "studyType": "Software Development",
+    "studyType": "Software Development"
+  }
   ],
 
   "references": [
