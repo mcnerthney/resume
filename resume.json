@@ -60,11 +60,7 @@
   ],
   "work": [
     {
-      "summary": "Tapcart effortlessly transform Shopify stores into dynamic mobile applications with adaptive server-driven UI. 
-      I built the Android WebBridge SDK providing a seamless way for web pages to communicate and interact with the Android applications through a WebView. 
-      I harnesses the power of Jetpack's comprehensive suite, including Compose, Flow, Navigation, ViewModels, and Room. 
-      Additionally, I utilized the capabilities of Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
-
+      "summary": "Tapcart effortlessly transform Shopify stores into dynamic mobile applications with adaptive server-driven UI. I built the Android WebBridge SDK providing a seamless way for web pages to communicate and interact with the Android applications through a WebView. I harnesses the power of Jetpack's comprehensive suite, including Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized the capabilities of Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
       "website": "https://tapcart.com",
       "name": "Tapcart",
       "location": "Santa Monica, California",
