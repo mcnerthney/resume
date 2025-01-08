@@ -41,10 +41,12 @@
         "Flow",
         "LiveData",
         "Kotlin Multiplatform",
-        "ktor",
-        "coroutines",
-        "kotlinx.serialization",
-        "gradle"
+        "Ktor",
+        "Coroutines",
+        "Kotlin Serialization",
+        "gGradle",
+        "Room",
+        "Room DAO/Migation","SQLite"
       ],
       "level": "Senior",
       "name": "Android Engineer"
@@ -54,15 +56,16 @@
         "Node.js",
         "Tailwind CSS",
         "JavaScript",
-        "TypeScript"
+        "TypeScript",
+        "mongodb"
       ],
-      "level": "Senior",
+      "level": "Hobby",
       "name": "Web Developer"
     }
   ],
   "work": [
     {
-      "summary": "Tapcart effortlessly transform Shopify stores into dynamic mobile applications with adaptive server-driven UI. I built the Android WebBridge SDK providing a seamless way for web pages to communicate and interact with the Android applications through a WebView. I harnesses the power of Jetpack's comprehensive suite, including Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized the capabilities of Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
+      "summary": "Tapcart effortlessly transform Shopify stores into dynamic mobile applications with adaptive server-driven UI using the power of Jetpack's components including Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized the capabilities of Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
       "website": "https://tapcart.com",
       "name": "Tapcart",
       "location": "Santa Monica, California",
@@ -70,25 +73,15 @@
       "startDate": "2021-09-20",
       "endDate": "2024-10-08",
       "highlights": [
-        "Kotlin",
-        "Compose",
-        "Agile",
-        "Jetpack"
+        "Built the Android WebBridge SDK providing an asynchronous communication channel for WebView interfaction with the Native Android application.",
+        "Designed and implentented Tapcart Mobile Wishlist for Android. Providles feature parity with Tapcart iOS App, enabling local and remote lists of favorate products.",
+        "Integrated a variety of third-party APIs and SDKs including LaunchDarkly, AppsFlyer, Symn, Algolia, Yotpo, Klaviyo, AppsFlyer, and Firebase"
       ]
     }
   ],
   "interests": [
     {
-      "name": "Rock Climbing"
-    },
-    {
-      "name": "Gravel Bike"
-    },
-    {
-      "name": "Photography"
-    },
-    {
-      "name": "Van Life Camping"
+      "name": "Rock Climb, Gravel Bike, Photography, Camping"
     }
   ]
 }
