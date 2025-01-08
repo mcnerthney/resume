@@ -65,7 +65,7 @@
   ],
   "work": [
     {
-      "summary": "Tapcart effortlessly transform Shopify stores into dynamic mobile applications with adaptive server-driven UI using the power of Jetpack's components including Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized the capabilities of Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
+      "summary": "Tapcart effortlessly transforms Shopify stores into dynamic mobile applications with an adaptive server-driven UI, leveraging the power of Jetpack components such as Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
       "website": "https://tapcart.com",
       "name": "Tapcart",
       "location": "Santa Monica, California",
@@ -73,9 +73,9 @@
       "startDate": "2021-09-20",
       "endDate": "2024-10-08",
       "highlights": [
-        "Built the Android WebBridge SDK providing an asynchronous communication channel for WebView interfaction with the Native Android application.",
-        "Designed and implentented Tapcart Mobile Wishlist for Android. Providles feature parity with Tapcart iOS App, enabling local and remote lists of favorate products.",
-        "Integrated a variety of third-party APIs and SDKs including LaunchDarkly, AppsFlyer, Symn, Algolia, Yotpo, Klaviyo, AppsFlyer, and Firebase"
+        "Developed the Android WebBridge SDK, providing an asynchronous communication channel for WebView interaction with the native Android application.",
+        "Designed and implemented the Tapcart Mobile Wishlist for Android, achieving feature parity with the Tapcart iOS app. This feature enables the creation of local and remote lists of favorite products.",
+        "Integrated a variety of third-party APIs and SDKs, including LaunchDarkly, AppsFlyer, Sentry, Algolia, Yotpo, Klaviyo, and Firebase."
       ]
     }
   ],
