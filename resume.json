@@ -94,10 +94,28 @@
  "Developed an asynchronous packet communication process for fail-safe message delivery.", 
 "Developed the Android WebBridge SDK, providing an asynchronous communication channel for WebView interaction with the native Android application."
     
-  ],
+  ]}
+  
+      ],
+      "volunteer": [{
+        "organization": "FISH Food Bank",
+        "position": "Volunteer",
+        "url": "https://www.fish-food-bank.com/",
+        "startDate": "2023-01-01",
+        "summary": "Warehouse & Store Support",
+        "highlights": [
+          "Delivery Driver"
+        ]
+      },
+      {
+        "organization": "Friends of the Columbia Gorge",
+        "position": "Volunteer",
+        "url": "https://gorgefriends.org/",
+        "startDate": "2024-01-01"
+}],
   "interests": [
     {
-      "name": "Rock Climb, Gravel Bike, Photography, Camping"
+      "name": "Rock Climbing, Bike Riding, Photography, Camping"
     }
   ]
 }
