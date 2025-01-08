@@ -6,7 +6,7 @@
     "name": "Daniel McNerthney",
     "label": "Mobile Software Engineer",
     "image": "https://avatars.githubusercontent.com/u/204389",
-    "summary": "A team leader dedicated to crafting outstanding, testable, reusable, and maintainable code. Demonstrates a strong ability to design superior software solutions through close collaboration with team members and stakeholders. Fosters a culture of continuous improvement and innovation, ensuring the delivery of high-quality, scalable, and efficient outcomes. Leads by example in adopting best practices, implementing robust testing strategies, and promoting code reviews to maintain high standards. Engages in proactive problem-solving and provides mentorship to team members, enhancing their skills and fostering a cohesive and productive work environment. Balances technical excellence with a keen understanding of business requirements, delivering software that not only meets but exceeds expectations.",
+    "summary": "An Android engineer dedicated to building best-in-class products. Expert in the design, implementation, and deployment of mobile software solutions. Proficient in Agile development, test-driven development, continuous integration, source control, version control, scalable deployments, design patterns, and coding standards.",
     "email": "dan.mcnerthney@gmail.com",
     "location": {
       "city": "Hood River",
@@ -50,17 +50,6 @@
       ],
       "level": "Senior",
       "name": "Android Engineer"
-    },
-    {
-      "keywords": [
-        "Node.js",
-        "Tailwind CSS",
-        "JavaScript",
-        "TypeScript",
-        "mongodb"
-      ],
-      "level": "Hobby",
-      "name": "Web Developer"
     }
   ],
   "work": [
@@ -68,7 +57,7 @@
       "summary": "Tapcart effortlessly transforms Shopify stores into dynamic mobile applications with an adaptive server-driven UI, leveraging the power of Jetpack components such as Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
       "website": "https://tapcart.com",
       "name": "Tapcart",
-      "location": "Santa Monica, California",
+      "location": "Santa Monica, California (Remote)",
       "position": "Senior Android Software Engineer II",
       "startDate": "2021-09-20",
       "endDate": "2024-10-08",
@@ -77,7 +66,34 @@
         "Designed and implemented the Tapcart Mobile Wishlist for Android, achieving feature parity with the Tapcart iOS app. This feature enables the creation of local and remote lists of favorite products.",
         "Integrated a variety of third-party APIs and SDKs, including LaunchDarkly, AppsFlyer, Sentry, Algolia, Yotpo, Klaviyo, and Firebase."
       ]
-    }
+    },
+    {
+      "summary": "Senior developer of the award-winning Go2Bank Android app, currently in the Google App Store with a 4.6 rating. Worked closely with developers, testers, project managers and product managers to define, estimate and schedule product and technical requirements and acceptance criteria. Utilized iPhone assets and code to define requirements and graphics for Android applications.",
+      "website": "https://greendot.com",
+      "name": "Green Dot Corp / Loopt, Inc.",
+      "location": "Pasadena, California (Remote)",
+      "position": "Senior Mobile Software Engineer",
+      "startDate": "2011-05-01",
+      "endDate": "2021-08-23",
+      "highlights": [
+        "Knowledgeable with Agile development, source control and versioning, release management, and application monitoring.",
+"Expert with the Android toolset including Android Studio, gradle, Kotlin, java, constraint layout, navigation, RESTful API, json parsing, and network security.",
+"Skilled with leveraging good design patterns and avoiding the pitfalls of anti-patterns."
+       ]
+    },
+    {
+      "summary": "Team lead on Qualcomm’s Brew TrueType font extension. Defined and maintained an SDK to layout and scale font glyphs rendered by combining unicode strings with TrueType fonts. Developed on-device regression testing framework. Designed and developed a markup language defining text formatting specifications. Other tasks included profiling and memory optimization.",
+      "website": "https://www.qualcomm.com/",
+      "name": "Qualcomm, Inc.",
+      "location": "Portland, Oregon",
+      "position": "Senior Mobile Software Engineer",
+      "startDate": "1995-05-01",
+      "endDate": "2009-08-23",
+      "highlights": [
+        "Developed UI and serial communication drivers for Omnitracs, a long-haul trucking satellite communication and vehicle monitoring system.",
+ "Developed an asynchronous packet communication process for fail-safe message delivery.", 
+"Developed the Android WebBridge SDK, providing an asynchronous communication channel for WebView interaction with the native Android application."
+    
   ],
   "interests": [
     {
