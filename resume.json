@@ -44,7 +44,7 @@
         "Ktor",
         "Coroutines",
         "Kotlin Serialization",
-        "gGradle",
+        "Gradle",
         "Room",
         "Room DAO/Migation","SQLite"
       ],
