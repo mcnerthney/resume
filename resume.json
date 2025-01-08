@@ -13,7 +13,6 @@
       "state": "Oregon",
       "countryCode": "US"
     },
-    
     "profiles": [
       {
         "url": "https://www.linkedin.com/in/danielmcnerthney",
@@ -31,28 +30,40 @@
       }
     ]
   },
-
-  "education": [{
-    "institution": "Bates Technical College",
-    "url": "https://www.batestech.edu/",
-    "studyType": "Software Development"
-  }
+  "education": [
+    {
+      "institution": "Bates Technical College",
+      "url": "https://www.batestech.edu/",
+      "studyType": "Software Development",
+      "endDate": "1980"
+    }
   ],
-
-  "references": [
-  ],
+  "references": [],
   "skills": [
     {
-      "keywords": ["Kotlin","Java",
-        "Android Jetpack","Compose","Flow","LiveData",
-        "Kotlin Multiplatform", "ktor", "coroutines","kotlinx.serialization","gradle"
-
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "Android Jetpack",
+        "Compose",
+        "Flow",
+        "LiveData",
+        "Kotlin Multiplatform",
+        "ktor",
+        "coroutines",
+        "kotlinx.serialization",
+        "gradle"
       ],
       "level": "Senior",
       "name": "Android Engineer"
     },
     {
-      "keywords": ["Node.js", "Tailwind CSS", "JavaScript", "TypeScript"],
+      "keywords": [
+        "Node.js",
+        "Tailwind CSS",
+        "JavaScript",
+        "TypeScript"
+      ],
       "level": "Senior",
       "name": "Web Developer"
     }
@@ -66,7 +77,12 @@
       "position": "Senior Android Software Engineer II",
       "startDate": "2021-09-20",
       "endDate": "2024-10-08",
-      "highlights": ["Kotlin", "Compose", "Agile", "Jetpack"]
+      "highlights": [
+        "Kotlin",
+        "Compose",
+        "Agile",
+        "Jetpack"
+      ]
     }
   ],
   "interests": [
