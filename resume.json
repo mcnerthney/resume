@@ -77,8 +77,9 @@
       "endDate": "2021-08-23",
       "highlights": [
         "Knowledgeable with Agile development, source control and versioning, release management, and application monitoring.",
-"Expert with the Android toolset including Android Studio, gradle, Kotlin, java, constraint layout, navigation, RESTful API, json parsing, and network security.",
-"Skilled with leveraging good design patterns and avoiding the pitfalls of anti-patterns."
+        "Developed Tapcart's Android WebBridge SDK, providing an asynchronous communication channel for WebView interaction with the native Android application.",
+        "Expert with the Android toolset including Android Studio, gradle, Kotlin, java, constraint layout, navigation, RESTful API, json parsing, and network security.",
+        "Skilled with leveraging good design patterns and avoiding the pitfalls of anti-patterns."
        ]
     },
     {
@@ -91,9 +92,7 @@
       "endDate": "2009-08-23",
       "highlights": [
         "Developed UI and serial communication drivers for Omnitracs, a long-haul trucking satellite communication and vehicle monitoring system.",
- "Developed an asynchronous packet communication process for fail-safe message delivery.", 
-"Developed the Android WebBridge SDK, providing an asynchronous communication channel for WebView interaction with the native Android application."
-    
+        "Developed an asynchronous packet communication process for fail-safe message delivery."
   ]}
   
       ],
