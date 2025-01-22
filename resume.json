@@ -42,8 +42,9 @@
         "LiveData",
         "Kotlin Multiplatform",
         "Ktor",
+        "Koin",
         "Coroutines",
-        "Kotlin Serialization",
+        "Kotlinx Serialization",
         "Gradle",
         "Room",
         "Room DAO/Migation","SQLite"
@@ -77,23 +78,10 @@
       "endDate": "2021-08-23",
       "highlights": [
         "Knowledgeable with Agile development, source control and versioning, release management, and application monitoring.",
-        "Developed Tapcart's Android WebBridge SDK, providing an asynchronous communication channel for WebView interaction with the native Android application.",
         "Expert with the Android toolset including Android Studio, gradle, Kotlin, java, constraint layout, navigation, RESTful API, json parsing, and network security.",
         "Skilled with leveraging good design patterns and avoiding the pitfalls of anti-patterns."
        ]
-    },
-    {
-      "summary": "Team lead on Qualcomm’s Brew TrueType font extension. Defined and maintained an SDK to layout and scale font glyphs rendered by combining unicode strings with TrueType fonts. Developed on-device regression testing framework. Designed and developed a markup language defining text formatting specifications. Other tasks included profiling and memory optimization.",
-      "website": "https://www.qualcomm.com/",
-      "name": "Qualcomm, Inc.",
-      "location": "Portland, Oregon",
-      "position": "Staff Software Engineer",
-      "startDate": "1995-05-01",
-      "endDate": "2009-08-23",
-      "highlights": [
-        "Developed UI and serial communication drivers for Omnitracs, a long-haul trucking satellite communication and vehicle monitoring system.",
-        "Developed an asynchronous packet communication process for fail-safe message delivery."
-  ]}
+    }
   
       ],
       "volunteer": [{
