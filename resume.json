@@ -1,12 +1,12 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "standard-resume"
   },
   "basics": {
     "name": "Daniel McNerthney",
     "label": "Mobile Software Engineer",
     "image": "https://avatars.githubusercontent.com/u/204389",
-    "summary": "An Android engineer dedicated to building best-in-class products. Expert in the design, implementation, and deployment of mobile software solutions. Proficient in Agile development, test-driven development, continuous integration, source control, version control, scalable deployments, design patterns, and coding standards.",
+    "summary": "Senior Android developer dedicated to building clean software. Expert in the design, implementation, and deployment of mobile software solutions. Proficient in Agile development, test-driven development, continuous integration, source control, version control, scalable deployments, design patterns, and coding standards.",
     "email": "dan.mcnerthney@gmail.com",
     "location": {
       "city": "Hood River",
@@ -55,7 +55,7 @@
   ],
   "work": [
     {
-      "summary": "Tapcart effortlessly transforms Shopify stores into dynamic mobile applications with an adaptive server-driven UI, leveraging the power of Jetpack components such as Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
+      "summary": "Tapcart is a mobile commerce platform that transforms Shopify stores into dynamic mobile applications with an adaptive server-driven UI, leveraging the power of Jetpack components such as Compose, Flow, Navigation, ViewModels, and Room. Additionally, I utilized Dagger for dependency injection, Ktor for network communication, GraphQL for efficient data querying, and JSON for data interchange.",
       "website": "https://tapcart.com",
       "name": "Tapcart, Inc.",
       "location": "Santa Monica, California (Remote)",
